@@ -1,6 +1,6 @@
 {
   "name": "@npmmaintea/potential-octo-dollop",
-  "version": "10.16.225",
+  "version": "10.16.226",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -147,5 +147,5 @@
   "bugs": {
     "url": "https://github.com/npmmaintea/potential-octo-dollop/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
